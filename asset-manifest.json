@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yunyun/static/css/main.a5e34874.chunk.css",
-    "main.js": "/yunyun/static/js/main.e1a9647e.chunk.js",
-    "main.js.map": "/yunyun/static/js/main.e1a9647e.chunk.js.map",
+    "main.js": "/yunyun/static/js/main.8c7a821b.chunk.js",
+    "main.js.map": "/yunyun/static/js/main.8c7a821b.chunk.js.map",
     "runtime-main.js": "/yunyun/static/js/runtime-main.da47b4b2.js",
     "runtime-main.js.map": "/yunyun/static/js/runtime-main.da47b4b2.js.map",
     "static/js/2.bdca7002.chunk.js": "/yunyun/static/js/2.bdca7002.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.da47b4b2.js",
     "static/js/2.bdca7002.chunk.js",
     "static/css/main.a5e34874.chunk.css",
-    "static/js/main.e1a9647e.chunk.js"
+    "static/js/main.8c7a821b.chunk.js"
   ]
 }
